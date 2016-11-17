@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Adil\\MyTestBundle\\": ""
+            "Adil\\MyTestBundle\\": "src/"
         },
         "classmap": [
             "Client",
