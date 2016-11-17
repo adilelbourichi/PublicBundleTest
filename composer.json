@@ -13,11 +13,7 @@
     "autoload": {
         "psr-4": {
             "Adil\\MyTestBundle\\": "src/"
-        },
-        "classmap": [
-            "Client",
-            "Entity"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
