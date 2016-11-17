@@ -15,7 +15,8 @@
             "Adil\\MyTestBundle\\": ""
         },
         "classmap": [
-            "autoload.php"
+            "Client",
+            "Entity"
         ]
     },
     "autoload-dev": {
