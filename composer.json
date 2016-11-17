@@ -9,6 +9,7 @@
     ],
     "license": "Apache-2.0",
     "type": "project",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "": "src/"
