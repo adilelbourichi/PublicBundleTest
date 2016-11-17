@@ -13,7 +13,10 @@
     "autoload": {
         "psr-4": {
             "Adil\\MyTestBundle\\": ""
-        }
+        },
+        "classmap": [
+            "autoload.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
