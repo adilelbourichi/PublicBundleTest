@@ -1,5 +1,12 @@
 {
     "name": "adil-test/adil-test",
+    "description": "Test API PHP package",
+    "authors": [
+        {
+            "name": "Adil EL Bourichi",
+            "email": "Adil.elbourichi@gmail.com"
+        }
+    ],
     "license": "Apache-2.0",
     "type": "project",
     "autoload": {
