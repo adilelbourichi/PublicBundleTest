@@ -1,6 +1,6 @@
 {
     "name": "adil-test/adil-test",
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "type": "project",
     "autoload": {
         "psr-4": {
