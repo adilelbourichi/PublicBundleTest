@@ -7,7 +7,7 @@ use DI\Container;
 $db_host = "127.0.0.1";
 $db_name = "my_db";
 $username = "admin";
-$password = null";
+$password = null;
 
 $params = [
       "driver" => "pdo_mysql",
