@@ -1,4 +1,7 @@
 <?php
+/**
+* @Author: Adil EL Boruichi
+*/
 
 use Doctrine\Common\Annotations\AnnotationReader;
 use Doctrine\ORM\EntityManager;
