@@ -1,5 +1,7 @@
 <?php
-
+/**
+* @Author: Adil EL Boruichi
+*/
 $mapping = array(
 	"MyTestBundle\Client\MyTestClient" => __DIR__ . "/Client/MyTestClient.php",
 	"MyTestBundle\Entity\Account" => __DIR__ . "/Entity/Account.php",
