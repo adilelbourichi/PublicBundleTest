@@ -10,7 +10,7 @@ about.me profile: https://about.me/adilelbourichi
 
 packagist: https://packagist.org/packages/adil-test/adil-test
 
-linkedIn profile: https://www.linkedin.com/in/adil-el-bourichi-8b8367106/
+linkedIn profile:  https://www.linkedin.com/profile/view?id=AAMAABq_3kwBNfk7WKe04opr3jb6xAavz6XIb20&trk=hp-identity-name
 
 google+ profile: https://plus.google.com/+AdilELBourichi
 
