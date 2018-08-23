@@ -19,6 +19,8 @@ youTube channel: https://www.youtube.com/channel/UCx03XNXUZhM06rq4PIiDi5Q
 facebook profile: https://www.facebook.com/adil.bourichi.7
 
 publications list:
+https://www.actapress.com/Abstract.aspx?paperId=33912
+<br>
 http://ieeexplore.ieee.org/document/4563310/
 <br>
 https://books.google.com/books/about/A_Low_Power_Parallel_Sequential_Decoder.html?id=AItxAQAACAAJ
